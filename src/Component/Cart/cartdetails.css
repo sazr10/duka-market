@@ -1,0 +1,13 @@
+.cart-main-div {
+  display: flex;
+  justify-content: space-between;
+}
+.Detail-product {
+  box-sizing: border-box;
+  padding-right: 13.5rem;
+  padding-left: 5rem;
+}
+.Detail {
+  box-sizing: border-box;
+  padding-right: 4rem;
+}

@@ -1,0 +1,47 @@
+.items-list {
+  display: flex;
+  border: 1px solid rgb(245, 243, 239);
+  width: 13rem;
+  margin: 5px 5px;
+  flex-direction: row;
+  font-size: 14px;
+}
+.itemss {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.itemss span {
+  box-sizing: border-box;
+  padding: 5px;
+  cursor: pointer;
+}
+.item-image {
+  width: 13rem;
+  position: relative;
+}
+.item-image-div {
+  position: relative;
+}
+.addcart-div {
+  position: absolute;
+  bottom: 1rem;
+}
+
+.sexspan {
+  font-size: 12px;
+  font-family: Open Sans;
+  font-weight: bold;
+  color: #222222;
+}
+.namespan {
+  font-size: 14px;
+  font-family: Open Sans;
+  color: #222222;
+}
+.pricespan {
+  font-size: 14px;
+  font-family: Open Sans;
+  font-weight: bold;
+  color: #222222;
+}
